@@ -1,0 +1,26 @@
+{
+  "name": "csv-to-png",
+  "version": "0.0.1",
+  "description": "Convert a CSV file into a PNG image",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"No test provided\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boxpositron/csv-to-png.git"
+  },
+  "keywords": [
+    "CSV",
+    "PNG",
+    "Image",
+    "Convert",
+    "Typescript"
+  ],
+  "author": "David Ibia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boxpositron/csv-to-png/issues"
+  },
+  "homepage": "https://github.com/boxpositron/csv-to-png#readme"
+}
